@@ -38,6 +38,7 @@ dependencies:
   geolocator: ^9.0.2
   http: ^1.1.0
   intl: ^0.18.1
+  anim_search_bar: ^2.0.3
 
 dev_dependencies:
   flutter_test:
